@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import re
 import sys
 from PyQt5.QtWidgets import QApplication, QPushButton, QGridLayout, QLabel, QTextEdit, QWidget
 from scanner import Scanner
