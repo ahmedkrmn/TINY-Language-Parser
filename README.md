@@ -29,3 +29,7 @@ After pasting this code snippet in the text box and clicking on **Parse**, the f
 3. With the help of the used graphing libraries, the syntax tree is then plotted.
 
 ![Syntax Tree](/Demo2.png)
+
+
+#### Credits
+The application is based on [muhakh](https://github.com/muhakh/TinyParser)'s implementation. A modified data structure is used for storing the syntax tree as well as using additional graphing libraries to provide a more precise and verbose visualization.
