@@ -25,7 +25,7 @@ end
 
 After pasting this code snippet in the text box and clicking on **Parse**, the following sequence of steps is executed:
 1. The source code is scanned to extract the tokens.
-2. The tokens are passed to the parser which generates the syntax tree using a tree data structure.
+2. The extracted tokens are passed to a recursive-descent predictive parser which generates the syntax tree using a tree data structure.
 3. With the help of the used graphing libraries, the syntax tree is then plotted.
 
 ![Syntax Tree](/Demo2.png)
