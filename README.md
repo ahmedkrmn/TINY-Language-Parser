@@ -1,5 +1,5 @@
 ### TINY Language Scanner and Parser
-A Python PyQt GUI application for scanning and parsring TINY Language code (as defined in [Compiler Construction: Principles and Practice](https://www.amazon.com/Compiler-Construction-Principles-Kenneth-Louden/dp/0534939724) and displaying the syntax tree of the given code sample. 
+A Python PyQt GUI application for scanning and parsring TINY Language code (as defined in [Compiler Construction: Principles and Practice](https://www.amazon.com/Compiler-Construction-Principles-Kenneth-Louden/dp/0534939724)) and displaying the syntax tree of the given code sample. 
 ![Syntax Tree](/Demo1.png)
 
 #### Running The Application
